@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sanju99971
+- 👋 Hi, I’m sanjay singh
 - 👀 I’m interested in ...Data science and machine learning
 - 🌱 I’m currently learning ...Data Science
 - 💞️ I’m looking to collaborate on ...
